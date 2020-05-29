@@ -56,8 +56,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A series of sketches of a writer’s life in a small fishing village in Maine.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;em&gt;The Country of the Pointed Firs&lt;/em&gt; by Sarah Orne Jewett was first published in serial form in 1896 in &lt;em&gt;The Atlantic&lt;/em&gt;, then later expanded into a novel.&lt;/p&gt;
-			&lt;p&gt;The narrator, like Jewett, is a middle-aged female writer, who goes to the fictional coastal town of Dunnet Landing in Maine to find time and space to write. There she meets its residents, including her landlady, Mrs. Almira Todd, a widow and herbalist, and she rents the empty schoolhouse as a place to write, sails with Mrs. Todd to meet Mrs. Todd’s brother and elderly mother. &lt;em&gt;The Country of the Pointed Firs&lt;/em&gt; is not so much concerned with plot, but with place—it’s rhythms, it’s people and it’s language. It captures the isolation, community and languishing of a small town.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Country of the Pointed Firs&lt;/i&gt; by Sarah Orne Jewett was first published in serial form in 1896 in &lt;i&gt;The Atlantic&lt;/i&gt;, then later expanded into a novel.&lt;/p&gt;
+			&lt;p&gt;The narrator, like Jewett, is a middle-aged female writer, who goes to the fictional coastal town of Dunnet Landing in Maine to find time and space to write. There she meets its residents, including her landlady, Mrs. Almira Todd, a widow and herbalist, and she rents the empty schoolhouse as a place to write, sails with Mrs. Todd to meet Mrs. Todd’s brother and elderly mother. &lt;i&gt;The Country of the Pointed Firs&lt;/i&gt; is not so much concerned with plot, but with place—its rhythms, its people and its language. It captures the isolation, community and languishing of a small town.&lt;/p&gt;
 			&lt;p&gt;It is often described as Jewett’s finest work, and one of the most influential works of American literary regionalism. Willa Cather considered it one of the most enduring American literary works of all time.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
@@ -69,24 +69,23 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Country_of_the_Pointed_Firs</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sarah-orne-jewett_the-country-of-the-pointed-firs</meta>
 		<dc:creator id="author">Sarah Orne Jewett</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Jewett, Sarah Orne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Sarah_Orne_Jewett</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79046454</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Albert Bierstadt</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<meta property="file-as" refines="#artist">Bierstadt, Albert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Bierstadt</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50011230</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Guan Un</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
+		<meta property="file-as" refines="#producer-1">Un, Guan</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://guanun.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
