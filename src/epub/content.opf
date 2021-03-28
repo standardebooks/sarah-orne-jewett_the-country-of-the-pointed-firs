@@ -71,7 +71,7 @@
 		<dc:creator id="author">Sarah Orne Jewett</dc:creator>
 		<meta property="file-as" refines="#author">Jewett, Sarah Orne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Sarah_Orne_Jewett</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79046454</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79046454</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Albert Bierstadt</dc:contributor>
 		<meta property="file-as" refines="#artist">Bierstadt, Albert</meta>
