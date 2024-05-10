@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/367</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000590100</dc:source>
 		<meta property="se:word-count">43065</meta>
-		<meta property="se:reading-ease.flesch">76.35</meta>
+		<meta property="se:reading-ease.flesch">76.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Country_of_the_Pointed_Firs</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sarah-orne-jewett_the-country-of-the-pointed-firs</meta>
 		<dc:creator id="author">Sarah Orne Jewett</dc:creator>
