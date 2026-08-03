@@ -64,7 +64,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/367</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000590100</dc:source>
-		<meta property="schema:wordCount">42079</meta>
+		<meta property="schema:wordCount">42077</meta>
 		<meta property="schema:educationalLevel">76.56</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Country_of_the_Pointed_Firs" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
