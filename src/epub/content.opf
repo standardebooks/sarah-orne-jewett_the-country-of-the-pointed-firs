@@ -55,7 +55,7 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008111402</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A series of sketches of a writer’s life in a small fishing village in Maine.</dc:abstract>
+		<meta property="schema:abstract">A series of sketches of a writer’s life in a small fishing village in Maine.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Country of the Pointed Firs&lt;/i&gt; was first published in serial form in 1896 in &lt;i&gt;The Atlantic&lt;/i&gt;, then later expanded into a novel.&lt;/p&gt;
 			&lt;p&gt;The narrator, like &lt;a href="https://standardebooks.org/ebooks/sarah-orne-jewett"&gt;Jewett&lt;/a&gt;, is a middle-aged female writer. She goes to the fictional coastal town of Dunnet Landing in Maine to find time and space to write. There she meets its residents, including her landlady, Mrs. Almira Todd, a widow and herbalist; she rents the empty schoolhouse as a place to write; and she sails with Mrs. Todd to meet Mrs. Todd’s brother and elderly mother. &lt;i&gt;The Country of the Pointed Firs&lt;/i&gt; is not so much concerned with plot, but with place—its rhythms, its people and its language. It captures the isolation, community and languishing of a small town.&lt;/p&gt;
