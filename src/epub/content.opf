@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Country of the Pointed Firs</dc:title>
 		<meta property="file-as" refines="#title">Country of the Pointed Firs, The</meta>
-		<dc:subject id="subject-1">Maine -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Maine--Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
 		<dc:subject id="subject-3">Pastoral fiction</dc:subject>
-		<dc:subject id="subject-4">Women authors -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Authorship -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Country life -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Seaside resorts -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Summer resorts -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Women authors--Fiction</dc:subject>
+		<dc:subject id="subject-5">Authorship--Fiction</dc:subject>
+		<dc:subject id="subject-6">Country life--Fiction</dc:subject>
+		<dc:subject id="subject-7">Seaside resorts--Fiction</dc:subject>
+		<dc:subject id="subject-8">Summer resorts--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008107224</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
